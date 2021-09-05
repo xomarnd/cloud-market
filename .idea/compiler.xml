@@ -33,6 +33,9 @@
       <module name="gateway-server" target="11" />
       <module name="product-dto" target="11" />
       <module name="product-service" target="11" />
+      <module name="wrapper (1)" target="1.5" />
+      <module name="wrapper (2)" target="1.5" />
+      <module name="wrapper (3)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
